@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039134537953",
+    "project_id": "agreement-management-2ac3c",
+    "storage_bucket": "agreement-management-2ac3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039134537953:android:94d7eb540e50b6a5b79fa0",
+        "android_client_info": {
+          "package_name": "com.example.agreement_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqo6utF4o9X3dPHyMjUEC90fSJt1aGAjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
